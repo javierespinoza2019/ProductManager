@@ -1,0 +1,11 @@
+C:\Dev\projects\Examen\Back\Test.Framework\bin\Debug\netstandard2.0\Test.Framework.deps.json
+C:\Dev\projects\Examen\Back\Test.Framework\bin\Debug\netstandard2.0\Test.Framework.dll
+C:\Dev\projects\Examen\Back\Test.Framework\bin\Debug\netstandard2.0\Test.Framework.pdb
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.csprojAssemblyReference.cache
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.Resources.MessageResource.resources
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.csproj.GenerateResource.cache
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.AssemblyInfoInputs.cache
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.AssemblyInfo.cs
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.csproj.CoreCompileInputs.cache
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.dll
+C:\Dev\projects\Examen\Back\Test.Framework\obj\Debug\netstandard2.0\Test.Framework.pdb

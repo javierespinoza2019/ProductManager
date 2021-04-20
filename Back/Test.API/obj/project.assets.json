@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Test.DataAccess": "1.0.0",
+          "Test.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Test.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Test.BusinessLogic.dll": {}
+        }
+      },
+      "Test.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Test.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Test.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Test.DataAccess.dll": {}
+        }
+      },
+      "Test.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Test.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Test.Entities.dll": {}
+        }
+      },
+      "Test.Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Test.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Test.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test.BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../Test.BusinessLogic/Test.BusinessLogic.csproj",
+      "msbuildProject": "../Test.BusinessLogic/Test.BusinessLogic.csproj"
+    },
+    "Test.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Test.DataAccess/Test.DataAccess.csproj",
+      "msbuildProject": "../Test.DataAccess/Test.DataAccess.csproj"
+    },
+    "Test.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Test.Entities/Test.Entities.csproj",
+      "msbuildProject": "../Test.Entities/Test.Entities.csproj"
+    },
+    "Test.Framework/1.0.0": {
+      "type": "project",
+      "path": "../Test.Framework/Test.Framework.csproj",
+      "msbuildProject": "../Test.Framework/Test.Framework.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Test.BusinessLogic >= 1.0.0",
+      "Test.Framework >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\980017444\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Dev\\projects\\Examen\\Back\\Test.API\\Test.API.csproj",
+      "projectName": "Test.API",
+      "projectPath": "C:\\Dev\\projects\\Examen\\Back\\Test.API\\Test.API.csproj",
+      "packagesPath": "C:\\Users\\980017444\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\projects\\Examen\\Back\\Test.API\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\980017444\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Dev\\projects\\Examen\\Back\\Test.BusinessLogic\\Test.BusinessLogic.csproj": {
+              "projectPath": "C:\\Dev\\projects\\Examen\\Back\\Test.BusinessLogic\\Test.BusinessLogic.csproj"
+            },
+            "C:\\Dev\\projects\\Examen\\Back\\Test.Framework\\Test.Framework.csproj": {
+              "projectPath": "C:\\Dev\\projects\\Examen\\Back\\Test.Framework\\Test.Framework.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

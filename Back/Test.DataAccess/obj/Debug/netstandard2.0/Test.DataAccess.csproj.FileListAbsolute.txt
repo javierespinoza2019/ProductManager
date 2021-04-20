@@ -1,0 +1,12 @@
+C:\Dev\projects\Examen\Back\Test.DataAccess\bin\Debug\netstandard2.0\Test.DataAccess.deps.json
+C:\Dev\projects\Examen\Back\Test.DataAccess\bin\Debug\netstandard2.0\Test.DataAccess.dll
+C:\Dev\projects\Examen\Back\Test.DataAccess\bin\Debug\netstandard2.0\Test.DataAccess.pdb
+C:\Dev\projects\Examen\Back\Test.DataAccess\bin\Debug\netstandard2.0\Test.Entities.dll
+C:\Dev\projects\Examen\Back\Test.DataAccess\bin\Debug\netstandard2.0\Test.Entities.pdb
+C:\Dev\projects\Examen\Back\Test.DataAccess\obj\Debug\netstandard2.0\Test.DataAccess.csprojAssemblyReference.cache
+C:\Dev\projects\Examen\Back\Test.DataAccess\obj\Debug\netstandard2.0\Test.DataAccess.AssemblyInfoInputs.cache
+C:\Dev\projects\Examen\Back\Test.DataAccess\obj\Debug\netstandard2.0\Test.DataAccess.AssemblyInfo.cs
+C:\Dev\projects\Examen\Back\Test.DataAccess\obj\Debug\netstandard2.0\Test.DataAccess.csproj.CoreCompileInputs.cache
+C:\Dev\projects\Examen\Back\Test.DataAccess\obj\Debug\netstandard2.0\Test.DataAccess.csproj.CopyComplete
+C:\Dev\projects\Examen\Back\Test.DataAccess\obj\Debug\netstandard2.0\Test.DataAccess.dll
+C:\Dev\projects\Examen\Back\Test.DataAccess\obj\Debug\netstandard2.0\Test.DataAccess.pdb
